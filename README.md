@@ -1,5 +1,7 @@
 ### Well hello there!
 
+SCZ: Adding more text
+
 ---
 SCZ: Adding some sample text here for practice.
 ---
